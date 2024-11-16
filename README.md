@@ -7,7 +7,8 @@ Features:
 Student Functionality: Pass, defer, and refer credits are entered by the student. The student's progress, deferment, or exclusion is assessed by the system. Before it exits, it verifies the inputs and displays the progress status.
 
 Staff Functionality: Multiple students' credits are entered by the staff and stored in an array. The program repeatedly prompts for input until the staff decides to quit.
-A histogram is generated, displaying the number of students who: Progressed Got a module trailer Are module retrievers Are excluded The staff can choose how to display the data: either in the order of entry or sorted by progression status.
+
+A histogram is generated, displaying the number of students who: Progressed, module trailer, module retriever and excluded. The staff can choose how to display the data: either in the order of entry or sorted by progression status.
 
 Data Output:
 The data is saved to an array and/or a text file and can be displayed in the console in either sorted or unsorted format.
